@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href=""><b>Download Orange Browser APK (Beta 3.1)</b></a>
+  <a href=""><b>Download Orange Browser APK (Beta 3.1)</b></a>(https://github.com/KSURitam/OrangeBrowser/releases/tag/Apk)
 </p>
 
 ---
